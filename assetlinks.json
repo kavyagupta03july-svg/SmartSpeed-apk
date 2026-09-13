@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.smart_spend_card.twa",
+        "sha256_cert_fingerprints": ["82:09:6D:2D:0E:D8:8E:85:C2:5F:26:46:D4:38:DA:A6:F5:FE:F4:EE:66:87:2A:CE:74:8E:63:63:D6:AE:FB:5F"]
+      }
+    }]
